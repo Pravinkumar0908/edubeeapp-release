@@ -1,6 +1,9 @@
 {
   "latest_version": "1.0.1",
-  "apk_url": "https://github.com/Pravinkumar0908/edubeeapp-release/releases/download/v1.0.1/app-arm64-v8a-release.apk",
-  "sha256": "PASTE_SHA256_HASH_HERE",
-  "force_update": true
+  "version_code": 2,
+  "apk_url": "https://github.com/Pravinkumar0908/edubeeapp-release/releases/download/v1.0.1/edubee-arm64-v1.0.1.apk",
+  "sha256": "b469abaf850b25e9131d2a242433502463a1b8b55bfd1b2735caa65b67312e8c",
+  "release_notes": "Auto update system added",
+  "force_update": false,
+  "min_version_code": 1
 }
